@@ -6,3 +6,13 @@ Principais funcionalidades:
 - Exibição de uma bandeira e quatro opções de resposta.
 - Interface simples e intuitiva.
 - Feedback imediato sobre a resposta correta ou incorreta
+
+Tela Inicial:
+![Tela Inicial](Prints%20Interface/TelaInicial.jpg)
+
+Tela de Pergunntas:
+![Tela Inicial](Prints%20Interface/Quiz1.jpg)
+
+Tela do Resultado:
+![Tela Inicial](Prints%20Interface/TelaResultado.jpg)
+

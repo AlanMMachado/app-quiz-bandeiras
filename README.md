@@ -1,5 +1,5 @@
 # app-quiz-bandeiras
- Um aplicativo mobile de quiz sobre bandeiras de diversos países, desenvolvido em Java usando Android Studio. O usuário deve identificar a bandeira correta entre quatro opções, com a interface baseada em RadioButton e RadioGroup.
+ Um aplicativo mobile de quiz sobre bandeiras de diversos países, desenvolvido em Java usando Android Studio. O usuário deve identificar a bandeira correta entre quatro opções, com a interface baseada em RadioButton e RadioGroup. 
 
 Principais funcionalidades:
 
@@ -11,7 +11,7 @@ Tela Inicial:
 
 ![Tela Inicial](Prints%20Interface/TelaInicial.jpg)
 
-Tela de Pergunntas:
+Tela de Perguntas:
 
 ![Tela Inicial](Prints%20Interface/Quiz1.jpg)
 
